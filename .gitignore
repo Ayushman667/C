@@ -1,0 +1,18 @@
+# Executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# CLion
+.idea/
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Linux temporary files
+*.swp
